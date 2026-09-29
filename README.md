@@ -4,7 +4,7 @@ Welcome to the official repository for **Soma Rodents**, a professional web plat
 
 ## 🌐 Live View
 Explore the live production deployment here:  
-👉 **[https://ahcode2001.github.io/soma-rodents/](https://ahcode2001.github.io/soma-rodents/)**
+👉 **[https://sites.google.com/view/soma-rodents](https://soma-rodents.vercel.app/)**
 
 ---
 
